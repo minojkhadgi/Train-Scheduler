@@ -1,0 +1,17 @@
+.jumbotron{
+	background-image:url("../images/photo-1541627748063-8f36cd6ff6f0.jpg");
+    min-height: 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: rgb(201, 28, 28);
+    size: 40px;
+
+}
+.text-center{
+    font-size: 50px;
+    f
+   
+    
+}
